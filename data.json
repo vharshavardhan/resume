@@ -1,0 +1,26 @@
+{
+  "basics":{
+    "name":"vhv",
+    "email":"vankadaraharshavardhan@gmail.com",
+   "mobile":"9848793292"
+ },
+  "education":[
+
+    {
+      "degree":"B.Tech",
+        "institute":"PSCMR",
+        "data":["2015-2019","75%"]
+    },
+    {
+      "degree":"intermediate/diploma",
+        "institute":"njc",
+        "data":["2013-2015","75%"]
+    },
+    {
+      "degree":"ssc",
+        "institute":"B.R.R.A.C.H.S",
+        "data":["2012-2013","75%"]
+    }
+
+  ]
+}
