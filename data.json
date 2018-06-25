@@ -4,6 +4,11 @@
     "email":"vankadaraharshavardhan@gmail.com",
    "mobile":"9848793292"
  },
+ "career":{
+   "info":"To work in a meaningful and challenging position that allows me to develop myself as Network Administrator and have the scope for advancement."
+
+ },
+
   "education":[
 
     {
@@ -22,5 +27,47 @@
         "data":["2012-2013","75%"]
     }
 
-  ]
+  ],
+  "achivements":[
+{
+  "name":"certified by <b> IIT Bombay in C++ </b>"
+},
+{
+  "name":"certified by <b> IIT Bombay in JAVA </b>"
+}
+
+],
+"technical":[
+{
+  "name":"C"
+},
+{
+  "name":"C++"
+},
+{
+  "name":"JAVA"
+},
+{
+  "name":"HTML"
+},
+{
+  "name":"DBMS"
+},
+{
+  "name":"PHP"
+}
+
+],
+"skills":[
+  {
+    "name":"communication skills",
+    "data":["ENG","TEL","HINDI"]
+  },
+  {
+    "name":"hobbies",
+    "data":["reading books","music"]
+  }
+
+]
+
 }
